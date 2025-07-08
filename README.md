@@ -9,4 +9,4 @@ Input:
 
 Output:
   simple interest = p * t * r
-Update README with project description
+
